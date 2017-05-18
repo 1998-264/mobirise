@@ -270,9 +270,20 @@
               "size": 0
             }
           },
-          "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/216995168<br>",
+          "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/218053000<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail:2770@arvore.pt<br><br><br>",
-          "text3": "<br><ul><br><br><br></ul>"
+          "text3": "<p>Sobre</p><p>Este filme retrata várias condições tanto físicas como psicológicas, muitas vezes originadas devido uma imagem distorcida do \"corpo ideal\" e o impacto que tal ideia errada tem em crianças e jovens.</p><p><br></p><ul><br><br><br></ul><p></p>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "center"
+            }
+          }
         }
       ]
     }

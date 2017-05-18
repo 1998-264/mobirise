@@ -5,6 +5,8 @@
 
 
 
+
+
 #menu-0 .navbar-toggler {
   color: #000;
 }
@@ -25,4 +27,11 @@
 }
 #form1-3 .mbr-section-title {
   font-family: 'Roboto', sans-serif;
+}
+#contacts1-5 DIV {
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-5 P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
