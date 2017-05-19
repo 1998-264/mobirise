@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -75,9 +75,9 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ffffff",
               "text-align": "center"
             }
           },
@@ -101,9 +101,9 @@
             "showButtons": true,
             "showArrow": true
           },
-          "title": "Necessidade? <br>ou <br>Vontade?",
+          "title": "Necessidade? <br>ou Vontade?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#video1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Teaser</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#image2-6\" data-toolbar=\"-mbrBtnMove\">Cartaz<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"necessidadeouvontade.html#video1-f\" data-toolbar=\"-mbrBtnMove\">Filme</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#video1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Teaser</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#image2-6\" data-toolbar=\"-mbrBtnMove\">Cartaz<br></a>"
         },
         {
           "alias": "purity/components",
@@ -115,18 +115,10 @@
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "H4": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "center"
-            },
-            "LI": {
-              "text-align": "center"
             }
           },
           "_anchor": "content1-4",
-          "text": "<h4>Este filme retrata várias condições tanto físicas como psicológicas, muitas vezes originadas devido uma imagem distorcida do \"corpo ideal\" e o impacto que tal ideia errada tem em crianças e jovens.</h4>"
+          "text": "<p>Este filme consiste no contraste entre as pessoas que contraem doenças por pensarem que ter um \"corpo perfeito\" é ser magro e muitas vezes isso é levado a casos extremos. &nbsp;No entanto, existem pais de crianças que os incentivam a ter uma alimentação pouco cuidada e hábitos extremamente sedentários e ambos devem ser combatidos.</p>"
         },
         {
           "alias": "purity/components",
@@ -140,7 +132,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/cartaz-paf-final-1400x1979.png",
               "width": 1400,
-              "link": "necessidadeouvontade.html#image2-6",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -171,32 +163,9 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/218053000",
+              "src": "https://vimeo.com/216995168",
               "autoplay": false,
-              "loop": false,
-              "aspectratio": "16:9"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder."
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-f",
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+              "loop": false
             }
           },
           "text": "Cut down the development time with drag-and-drop website builder."
@@ -292,20 +261,9 @@
               "size": 0
             }
           },
-          "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/218053000<br>",
+          "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/216995168<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail:2770@arvore.pt<br><br><br>",
-          "text3": "<p>Sobre</p><p>Este filme retrata várias condições tanto físicas como psicológicas, muitas vezes originadas devido uma imagem distorcida do \"corpo ideal\" e o impacto que tal ideia errada tem em crianças e jovens.</p><p><br></p><ul><br><br><br></ul><p></p>",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "text-align": "center"
-            }
-          }
+          "text3": "<br><ul><br><br><br></ul>"
         }
       ]
     }

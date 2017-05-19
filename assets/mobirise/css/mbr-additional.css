@@ -1,9 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-
-
-
 
 
 
@@ -11,27 +6,13 @@
   color: #000;
 }
 #header1-1 H1 {
-  font-family: 'Montserrat', sans-serif;
-  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
   text-align: center;
 }
 #content1-4 P {
   font-family: 'Roboto', sans-serif;
 }
-#content1-4 H4 {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#content1-4 LI {
-  text-align: center;
-}
 #form1-3 .mbr-section-title {
   font-family: 'Roboto', sans-serif;
-}
-#contacts1-5 DIV {
-  font-family: 'Oswald', sans-serif;
-}
-#contacts1-5 P {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
 }
