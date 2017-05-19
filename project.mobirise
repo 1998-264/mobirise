@@ -263,7 +263,16 @@
           },
           "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/216995168<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail:2770@arvore.pt<br><br><br>",
-          "text3": "<br><ul><br><br><br></ul>"
+          "text3": "<p>Sobre</p><p>Este filme consiste no contraste entre as pessoas que contraem doenças por pensarem que ter um \"corpo perfeito\" é ser magro e muitas vezes isso é levado a casos extremos.  No entanto, existem pais de crianças que os incentivam a ter uma alimentação pouco cuidada e hábitos extremamente sedentários e ambos devem ser combatidos.<br></p><ul><br><br><br></ul><p></p>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
