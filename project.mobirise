@@ -77,7 +77,7 @@
             "H1": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#ffffff",
+              "color": "#8f99af",
               "text-align": "center"
             }
           },
@@ -130,7 +130,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cartaz-paf-final-1400x1979.png",
+              "src": "@PROJECT_PATH@/assets/images/cartaz-1400x1979.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -163,7 +163,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/218053000",
+              "src": "https://vimeo.com/219975561",
               "autoplay": false,
               "loop": false
             }
@@ -232,6 +232,15 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts1-5",
           "_params": {
             "paddingTop": "3",
@@ -263,16 +272,7 @@
           },
           "text1": "<b>Link Vimeo&nbsp;</b><br>https://vimeo.com/216995168<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail:2770@arvore.pt<br><br><br>",
-          "text3": "<p>Sobre</p><p>Este filme consiste no contraste entre as pessoas que contraem doenças por pensarem que ter um \"corpo perfeito\" é ser magro e muitas vezes isso é levado a casos extremos.  No entanto, existem pais de crianças que os incentivam a ter uma alimentação pouco cuidada e hábitos extremamente sedentários e ambos devem ser combatidos.<br></p><ul><br><br><br></ul><p></p>",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text3": "<p>Sobre</p><p>Este filme consiste no contraste entre as pessoas que contraem doenças por pensarem que ter um \"corpo perfeito\" é ser magro e muitas vezes isso é levado a casos extremos.  No entanto, existem pais de crianças que os incentivam a ter uma alimentação pouco cuidada e hábitos extremamente sedentários e ambos devem ser combatidos.<br></p><ul><br><br><br></ul><p></p>"
         }
       ]
     }
